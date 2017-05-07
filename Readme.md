@@ -56,3 +56,7 @@ Also, make sure the MYSQL SERVER is running on your pc.(Refer:https://dev.mysql.
 ![screenshot 67](https://cloud.githubusercontent.com/assets/22167688/25783724/b3df1db4-337e-11e7-8352-d7c6e847a029.png)
 ## Calculator
 ![screenshot 68](https://cloud.githubusercontent.com/assets/22167688/25783725/b3df9ff0-337e-11e7-912e-53731974312f.png)
+
+# Queries ????
+**E mail :**  *shivamsom3@gmail.com*
+**LinkedIN:**  *https://www.linkedin.com/in/shivam-som* 
