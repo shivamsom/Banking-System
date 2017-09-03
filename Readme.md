@@ -3,7 +3,9 @@
 
 This is an Windows Desktop Application which is intended to be used for internal working of banks and all bank related transaction.
 This approach replaces the traditional way of paper record keeping to an modern and efficient computerised approach to manage and handle the data of the customers.
+
 ### Note
+The repository does not contain the Source Code and the Database file. If anybody wants the file mail me at: shivamsom3@gmail.com
 ```
 It's recommended to use the latest and legitimate version of Windows and .NetFramework available. So,that application runs without any issues.
 Also, make sure the MYSQL SERVER is running on your pc.(Refer:https://dev.mysql.com/doc/refman/5.7/en/windows-start-command-line.html)
