@@ -10,6 +10,8 @@ The repository does not contain the Source Code and the Database file. If anybod
 It's recommended to use the latest and legitimate version of Windows and .NetFramework available. So,that application runs without any issues.
 Also, make sure the MYSQL SERVER is running on your pc.(Refer:https://dev.mysql.com/doc/refman/5.7/en/windows-start-command-line.html)
 ```
+The repository does not contain the Source Code and the Database file. If anybody wants the file(s) mail me at: shivamsom3@gmail.com
+
 ### Running the Application
 * Click on **Bank.exe**. Right Click **Run as Admin**.
 ![screenshot 42](https://cloud.githubusercontent.com/assets/22167688/25783699/b3015592-337e-11e7-819f-bcc5d2b4c0f3.png)
